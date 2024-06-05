@@ -1,0 +1,24 @@
+{
+  "title": "Deb's Fab Feather Art",
+  "domain": "debsfabfeatherart.com",
+  "url": "https://debsfabfeatherart.com",
+	"language": "en",
+  "description": "",
+  "noindex": false,
+  "canonical": true,
+  "navItems": [
+    {
+      "text": "Cards",
+      "url": "#cards"
+    },
+    {
+      "text": "Hairpieces",
+      "url": "#"
+    },
+    {
+      "text": "Paintings",
+      "url": "#"
+    }
+  ],
+  "imagesPath": "/assets/img/"
+}

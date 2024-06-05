@@ -1,0 +1,11 @@
+{#- Receives variable imagesCategory #}
+<div class="gallery pswp-gallery" id="{{ imagesCategory }}">
+  {%- for image in images[imagesCategory] %}
+  <a href="{{ site.imagesPath }}{{ image.img_url }}" 
+    data-pswp-width="1200" 
+    data-pswp-height="1200" 
+    target="_blank">
+    <img src="{{ site.imagesPath }}{{ image.img_url }}" alt="{{ image.img_alt }}" />
+  </a>
+  {%- endfor %}
+</div>

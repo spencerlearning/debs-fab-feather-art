@@ -1,0 +1,19 @@
+# Dependencies installed by npm
+node_modules
+
+# Output folder
+dist
+
+# Other stuff that Andy Bell (Learn Eleventy From Scratch) threw in
+# Misc
+*.log
+npm-debug.*
+*.scssc
+*.swp
+.DS_Store
+Thumbs.db
+.sass-cache
+.env
+.cache
+
+src/_includes/css

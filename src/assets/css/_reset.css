@@ -1,0 +1,73 @@
+/* Box sizing (Comeau, Bell) */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Comeau */
+/* * {
+  margin: 0; 
+} */
+
+body {
+  margin: 0;
+  /* Stretch body to browser viewport height */
+  min-height: 100vh; /* Bell - Included in case browser doesn't support svh */
+  min-height: 100svh; /* For better mobile browser height */
+
+  line-height: 1.5; /* Comeau, Bell */
+
+  /* System font stack from Open Props */
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Cantarell, "Noto Sans", sans-serif;
+}
+
+/* Set shorter line heights on headings and interactive elements (Bell)*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+button,
+input,
+label {
+  line-height: 1.1;
+}
+
+/* Balance text wrapping on headings (Bell) */
+h1,
+h2,
+h3,
+h4 {
+  text-wrap: balance;
+}
+
+/* Word wrapping (Comeau) */
+/* p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  overflow-wrap: break-word;
+} */
+
+/* Inherit fonts for inputs and buttons (Comeau, Bell) */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+/* Make images easier to work with (Comeau, Bell) */
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}

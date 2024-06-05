@@ -1,0 +1,35 @@
+---
+title: Deb's Fab Feather Art
+layout: layouts/base.njk
+---
+
+<section id="intro">
+	<h1>Welcome to Deb's Fab Feather Art!</h1>
+	<div class="intro">
+		<div class="intro-image">
+			<img src="assets/img/deb-and-dutch.jpg" alt="Deborah and her beloved white cockatoo named Dutch">
+		</div>
+		<div class="intro-text">
+			<p>Hi, I'm Deborah Spencer and I am an avid bird lover. I have an Umbrella Cockatoo named Dutch who is my cherished pet of 25 years.</p>
+			<p>I started creating artwork for friends and family with his feathers when they fell out and soon realized what a gift he had given me.</p>
+			<p>Now I use cruelty-free feathers naturally molted from a variety of birds to create unique artwork for you and your friends and family.</p>
+		</div>
+	</div>
+</section>
+
+<section id="cards">
+	<h2>Cards</h2>
+	{%- set imagesCategory = "cards" %}
+  {% include "partials/gallery-images.njk" %}
+</section>
+
+{# <section id="hairpieces">
+	<h2>Hairpieces</h2>
+	{%- set imagesCategory = "hairpieces" %}
+  {% include "partials/gallery-images.njk" %}
+</section> #}
+
+<section id="contact">
+	<h2>Contact</h2>
+	<script data-letterbirduser="dbrownmt" src="https://letterbird.co/embed/v1.js"></script>
+</section>

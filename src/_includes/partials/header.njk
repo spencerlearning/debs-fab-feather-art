@@ -1,0 +1,15 @@
+<header class="header">
+  <img src="assets/img/debs-fab-feather-art-1600.png" alt="Deb's Fab Feather Art logo" />
+  <nav aria-label="Primary">
+    <ul role="list">
+      {%- for item in site.navItems %}
+      <li>
+        <a href="{{ item.url }}">
+            {{ item.text }}
+        </a>
+      </li>
+      {%- endfor %}
+    </ul>
+    <a class="btn" href="#contact">Contact</a>
+  </nav>
+</header>

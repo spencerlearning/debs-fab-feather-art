@@ -1,0 +1,32 @@
+{
+  "cards": [
+    {
+      "img_url": "card-blue-feather-lady.png",
+      "img_alt": "A feather lady on a light blue background"
+    },
+    {
+      "img_url": "card-blue-white-owl.png",
+      "img_alt": "A white owl on a light blue background"
+    },
+    {
+      "img_url": "card-elephant.png",
+      "img_alt": "A multi-colored elephant on a white background"
+    },
+    {
+      "img_url": "card-raven-flying-lady.png",
+      "img_alt": "A raven lady flying"
+    },
+    {
+      "img_url": "card-raven-lady.png",
+      "img_alt": "A raven lady"
+    },
+    {
+      "img_url": "card-red-bird.png",
+      "img_alt": "A red bird"
+    },
+    {
+      "img_url": "card-red-matisse-lady.png",
+      "img_alt": "A red lady in the style of Matisse"
+    }
+  ]
+}
