@@ -1,10 +1,30 @@
 @import "_reset.css";
 
 :root {
-  --theme-light-color: #f5ecf2;
-  --theme-light-border-color: #ebdae6;
-  --theme-dark-color: #2F2560;
-  --theme-accent-color: #744270;
+  /* Base colors are from Canva palette generator using header image */
+  --palette-base-light: #dbb6cf;
+  --palette-base-light-rgb: 219, 182, 207;
+  --palette-base-dark: #995493;
+  --palette-base-dark-rgb: 153, 84, 147;
+  --palette-base-text: #292546;
+  --palette-base-text-rgb: 41, 37, 70;
+  --palette-base-accent: #9b452b;
+  --palette-base-accent-rgb: 155, 69, 43;
+
+  /* Old theme colors derived from previous palette generation */
+  --theme-light-color-old: #f5ecf2;
+  --theme-light-border-color-old: #ebdae6;
+  --theme-dark-color-old: #744270;
+  --theme-text-color-old: #2F2560;
+
+  /* var(--palette-base-light)  lightened by 75% at https://mdigi.tools/lighten-color */
+  --theme-light-color: #f6edf3;
+  /* var(--palette-base-light)  lightened by 50% at https://mdigi.tools/lighten-color */
+  --theme-light-border-color: #eddae7;
+  /* var(--palette-base-dark)  darkened by 24% at https://mdigi.tools/darken-color */
+  --theme-dark-color: #744070;
+  --theme-text-color: var(--theme-text-color-old);
+
   --media-lg-breakpoint: 1024px;
   --media-sm-breakpoint: 360px;
 }
@@ -45,7 +65,7 @@ h2 {
   font-size: var(--font-size-fluid-3);
   line-height: 1.2;
   text-align: center;
-  color: var(--theme-dark-color);
+  color: var(--theme-text-color);
   margin: 0 0 var(--size-8);
 }
 
@@ -73,6 +93,7 @@ body > header {
 .header img {
   width: 100%;
   max-width: 800px;
+  height: auto;
   margin: 0 auto;
 }
 
@@ -100,7 +121,7 @@ body > header {
 .header nav a {
   font-size: var(--font-size-3);
   text-decoration: none;
-  color: var(--theme-dark-color);
+  color: var(--theme-text-color);
   padding: 0.5rem 1rem;
 }
 
@@ -108,7 +129,7 @@ body > header {
 .header nav a:active,
 .header nav a:focus {
   border-radius: var(--radius-4);
-  background-color: var(--theme-accent-color);
+  background-color: var(--theme-dark-color);
   color: var(--theme-light-color);
 }
 
@@ -121,7 +142,7 @@ body > header {
   text-transform: uppercase;
   border-radius: var(--radius-4);
   color: var(--theme-light-color);
-  background-color: var(--theme-accent-color);
+  background-color: var(--theme-dark-color);
   padding: 0.5rem 1.5rem;
 }
 
@@ -202,7 +223,7 @@ body > footer {
   justify-content: center;
   align-items: center;
   height: 80px;
-  background-color: var(--theme-accent-color);
+  background-color: var(--theme-dark-color);
   color: var(--theme-light-color);
   padding: 0 5rem;
 }
