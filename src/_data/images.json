@@ -8,17 +8,22 @@
       "img_url": "card-blue-white-owl.png",
       "img_alt": "A white owl on a light blue background"
     },
+
     {
-      "img_url": "card-elephant.png",
-      "img_alt": "A multi-colored elephant on a white background"
+      "img_url": "card-raven-lady.png",
+      "img_alt": "A raven lady"
     },
     {
       "img_url": "card-raven-flying-lady.png",
       "img_alt": "A raven lady flying"
     },
     {
-      "img_url": "card-raven-lady.png",
-      "img_alt": "A raven lady"
+      "img_url": "card-three-dancing-ladies.png",
+      "img_alt": "Three ladies facing forward and dancing side by side"
+    },
+    {
+      "img_url": "card-elephant.png",
+      "img_alt": "A multi-colored elephant on a white background"
     },
     {
       "img_url": "card-red-bird.png",
