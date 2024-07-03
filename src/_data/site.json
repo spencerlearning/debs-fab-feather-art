@@ -2,7 +2,7 @@
   "title": "Deb's Fab Feather Art",
   "domain": "debsfabfeatherart.com",
   "url": "https://debsfabfeatherart.com",
-	"language": "en",
+  "language": "en",
   "description": "",
   "noindex": false,
   "canonical": true,
@@ -13,7 +13,7 @@
     },
     {
       "text": "Hairpieces",
-      "url": "#"
+      "url": "#hairpieces"
     },
     {
       "text": "Paintings",

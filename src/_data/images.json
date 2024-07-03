@@ -33,5 +33,39 @@
       "img_url": "card-red-matisse-lady.png",
       "img_alt": "A red lady in the style of Matisse"
     }
+  ],
+  "hairpieces": [
+    {
+      "img_url": "hairpiece-01.png",
+      "img_alt": "A feather hairpiece worn by a woman with brown hair"
+    },
+    {
+      "img_url": "hairpiece-02.png",
+      "img_alt": "A feather hairpiece worn by a woman with brown hair"
+    },
+    {
+      "img_url": "hairpiece-03.png",
+      "img_alt": "A feather hairpiece worn by a woman with brown hair"
+    },
+    {
+      "img_url": "hairpiece-04.png",
+      "img_alt": "A feather hairpiece worn by a woman with brown hair"
+    },
+    {
+      "img_url": "hairpiece-05.png",
+      "img_alt": "A feather hairpiece worn by a woman with brown hair"
+    },
+    {
+      "img_url": "hairpiece-06.png",
+      "img_alt": "A feather hairpiece worn by a woman with brown hair"
+    },
+    {
+      "img_url": "hairpiece-07.png",
+      "img_alt": "A feather hairpiece worn by a woman with brown hair"
+    },
+    {
+      "img_url": "hairpiece-08.png",
+      "img_alt": "A feather hairpiece worn by a woman with brown hair"
+    }
   ]
 }
