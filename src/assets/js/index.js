@@ -1,21 +1,29 @@
-// Include Lightbox 
-import PhotoSwipeLightbox from '/assets/js/photoswipe-lightbox.esm.js';
+// Include Lightbox
+import PhotoSwipeLightbox from "/assets/js/photoswipe-lightbox.esm.js";
 
 // Initialize the lightbox for cards gallery
 const lightbox1 = new PhotoSwipeLightbox({
   // may select multiple "galleries"
-  gallery: '#cards',
+  gallery: "#cards",
   // Elements within gallery (slides)
-  children: 'a',
+  children: "a",
   // setup PhotoSwipe Core dynamic import
-  pswpModule: () => import('/assets/js/photoswipe.esm.js')
+  pswpModule: () => import("/assets/js/photoswipe.esm.js"),
 });
 lightbox1.init();
 
 // Initialize the lightbox for hairpieces gallery
 const lightbox2 = new PhotoSwipeLightbox({
-  gallery: '#hairpieces',
-  children: 'a',
-  pswpModule: () => import('/assets/js/photoswipe.esm.js')
+  gallery: "#hairpieces",
+  children: "a",
+  pswpModule: () => import("/assets/js/photoswipe.esm.js"),
 });
 lightbox2.init();
+
+// Initialize the lightbox for paintings gallery
+const lightbox3 = new PhotoSwipeLightbox({
+  gallery: "#paintings",
+  children: "a",
+  pswpModule: () => import("/assets/js/photoswipe.esm.js"),
+});
+lightbox3.init();

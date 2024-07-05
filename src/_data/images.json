@@ -67,5 +67,83 @@
       "img_url": "hairpiece-08.png",
       "img_alt": "A feather hairpiece worn by a woman with brown hair"
     }
+  ],
+  "paintings": [
+    {
+      "img_url": "painting-05-two-birds-sun.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-10-two-feather-birds-long-beaks.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-20-ladybug.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-15-bird-pearls.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-40-feather-lady-blue-card.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-41-feather-lady-purple-card.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-44-feather-lady-white.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-46-feather-lady-ribbons-orange.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-48-feather-lady-orange.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-50-three-peacock-dancing-ladies.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-60-feather-heron-parrot.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-63-eagle-feather-flower.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-65-feather-birds.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-66-feather-heron.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-67-feather-stand-heron.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-68-feather-stand-xmas.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-88-dragon.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-89-lady-red-sombrero.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-95-mosaic-bird-butterfly.png",
+      "img_alt": ""
+    }
   ]
 }
