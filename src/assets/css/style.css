@@ -1,4 +1,6 @@
+@import "_open-props.min.css";
 @import "_reset.css";
+@import "_photoswipe.css";
 
 :root {
   /* Base colors are from Canva palette generator using header image */
@@ -15,7 +17,7 @@
   --theme-light-color-old: #f5ecf2;
   --theme-light-border-color-old: #ebdae6;
   --theme-dark-color-old: #744270;
-  --theme-text-color-old: #2F2560;
+  --theme-text-color-old: #2f2560;
 
   /* var(--palette-base-light)  lightened by 75% at https://mdigi.tools/lighten-color */
   --theme-light-color: #f6edf3;
@@ -149,7 +151,7 @@ body > header {
 .header nav a.btn:hover,
 .header nav a.btn:active,
 .header nav a.btn:focus {
-    opacity: 0.8; 
+  opacity: 0.8;
 }
 
 @media (min-width: 480px) {
