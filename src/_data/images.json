@@ -70,6 +70,10 @@
   ],
   "paintings": [
     {
+      "img_url": "painting-03-mirror-parrot.png",
+      "img_alt": ""
+    },
+    {
       "img_url": "painting-05-two-birds-sun.png",
       "img_alt": ""
     },
@@ -139,10 +143,6 @@
     },
     {
       "img_url": "painting-89-lady-red-sombrero.png",
-      "img_alt": ""
-    },
-    {
-      "img_url": "painting-95-mosaic-bird-butterfly.png",
       "img_alt": ""
     }
   ]
