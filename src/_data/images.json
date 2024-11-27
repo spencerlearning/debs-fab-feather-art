@@ -42,6 +42,10 @@
       "img_alt": "A multi-colored elephant on a white background"
     },
     {
+      "img_url": "card-christmas-bird-santa-2.png",
+      "img_alt": "A Christmas bird in a Santa hat and boots"
+    },
+    {
       "img_url": "card-christmas-bird-santa-1.png",
       "img_alt": "A Christmas bird in a Santa hat"
     },
@@ -50,11 +54,11 @@
       "img_alt": "A red lady in the style of Matisse"
     },
     {
-      "img_url": "painting-88-dragon.png",
+      "img_url": "painting-89-lady-red-sombrero.png",
       "img_alt": ""
     },
     {
-      "img_url": "painting-89-lady-red-sombrero.png",
+      "img_url": "painting-88-dragon.png",
       "img_alt": ""
     }
   ],
