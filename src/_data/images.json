@@ -18,6 +18,22 @@
       "img_alt": "A raven lady flying"
     },
     {
+      "img_url": "painting-40-feather-lady-blue-card.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-41-feather-lady-purple-card.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-10-two-feather-birds-long-beaks.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "card-red-bird.png",
+      "img_alt": "A red bird"
+    },
+    {
       "img_url": "card-three-dancing-ladies.png",
       "img_alt": "Three ladies facing forward and dancing side by side"
     },
@@ -26,12 +42,20 @@
       "img_alt": "A multi-colored elephant on a white background"
     },
     {
-      "img_url": "card-red-bird.png",
-      "img_alt": "A red bird"
+      "img_url": "card-christmas-bird-santa-1.png",
+      "img_alt": "A Christmas bird in a Santa hat"
     },
     {
       "img_url": "card-red-matisse-lady.png",
       "img_alt": "A red lady in the style of Matisse"
+    },
+    {
+      "img_url": "painting-88-dragon.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-89-lady-red-sombrero.png",
+      "img_alt": ""
     }
   ],
   "hairpieces": [
@@ -78,23 +102,7 @@
       "img_alt": ""
     },
     {
-      "img_url": "painting-10-two-feather-birds-long-beaks.png",
-      "img_alt": ""
-    },
-    {
-      "img_url": "painting-20-ladybug.png",
-      "img_alt": ""
-    },
-    {
       "img_url": "painting-15-bird-pearls.png",
-      "img_alt": ""
-    },
-    {
-      "img_url": "painting-40-feather-lady-blue-card.png",
-      "img_alt": ""
-    },
-    {
-      "img_url": "painting-41-feather-lady-purple-card.png",
       "img_alt": ""
     },
     {
@@ -111,6 +119,10 @@
     },
     {
       "img_url": "painting-50-three-peacock-dancing-ladies.png",
+      "img_alt": ""
+    },
+    {
+      "img_url": "painting-four-dancing-feather-ladies.png",
       "img_alt": ""
     },
     {
@@ -135,14 +147,6 @@
     },
     {
       "img_url": "painting-68-feather-stand-xmas.png",
-      "img_alt": ""
-    },
-    {
-      "img_url": "painting-88-dragon.png",
-      "img_alt": ""
-    },
-    {
-      "img_url": "painting-89-lady-red-sombrero.png",
       "img_alt": ""
     }
   ]
