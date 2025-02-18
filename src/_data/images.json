@@ -94,6 +94,14 @@
     {
       "img_url": "hairpiece-08.png",
       "img_alt": "A feather hairpiece worn by a woman with brown hair"
+    },
+    {
+      "img_url": "necklace-01.png",
+      "img_alt": "A feather necklace worn by a woman"
+    },
+    {
+      "img_url": "necklace-02.png",
+      "img_alt": "A feather necklace worn by a woman"
     }
   ],
   "paintings": [
